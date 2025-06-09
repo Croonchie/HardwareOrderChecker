@@ -1,4 +1,4 @@
-
+//Joshua Carl Salazar
 import java.util.Scanner;
 
 public class HardwareOrderChecker {
